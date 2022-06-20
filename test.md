@@ -39,7 +39,7 @@ horizonal rules
 
 > Special
 
-\*không in nghiêng*
+\*không in nghiêng update*
 
 ___
 underscore
