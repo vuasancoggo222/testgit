@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 ffff fkfkfk
-=======
-ffffffxxxxx
->>>>>>> new2
+
