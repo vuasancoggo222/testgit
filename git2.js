@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
-ggggggggggg
-=======
-<<<<<<< HEAgitD
+<<<<<<< HEAD
 gggggggg
 =======
 ggggggggggg
 >>>>>>> git2
->>>>>>> Stashed changes
